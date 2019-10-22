@@ -1,3 +1,8 @@
+MORE INFO = https://banzaicloud.com/blog/network-policy/
+
+
+
+
 ![You can get stuff like this](img/1.gif)
 _You can get stuff like this with Network Policies..._
 
